@@ -1,0 +1,9 @@
+{:remove-multiple-non-indenting-spaces? true
+ :indent-line-comments? true
+ :remove-trailing-whitespace? true
+ :sort-ns-references? true
+ :extra-indents {>defn [[:inner 0]]
+                 loop-iter! [[:inner 0]]
+                 sp-let [[:inner 0]] 
+                 missionary.core/via [[:block 1]] 
+                 missionary.core/sp [[:block 0]]}}

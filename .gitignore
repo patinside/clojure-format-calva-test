@@ -1,0 +1,16 @@
+**/.cpcache
+**/.calva/output-window/output.calva-repl
+.nrepl-port
+out
+
+# clojure-lsp
+.lsp/sqlite*.db
+
+# clj-kondo cache
+.clj-kondo/.cache
+
+# Lsp cache
+.lsp/.cache
+
+# Portal
+.portal

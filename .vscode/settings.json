@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "calva.fmt.configPath": "CLOJURE-LSP",
+  "calva.clojureLspVersion": "nightly",
+  "calva.fmt.newIndentEngine": false
+}

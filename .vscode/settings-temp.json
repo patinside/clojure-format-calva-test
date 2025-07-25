@@ -1,0 +1,23 @@
+{
+  "[clojure]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+  },
+  "calva.clojureLspVersion": "nightly",
+  "calva.fmt.configPath": "CLOJURE-LSP"
+}
+{
+  "editor.formatOnSave": true,
+  "calva.fmt.configPath": "cljfmt.edn",
+  "calva.fmt.newIndentEngine": true
+}
+
+{
+  "editor.formatOnSave": true,
+  "calva.fmt.configPath": "CLOJURE-LSP",
+  "calva.enableClojureLspOnStart": "always"
+}
+
+{
+  "editor.formatOnSave": true
+}
